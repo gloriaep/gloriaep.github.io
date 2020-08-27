@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gloriaep.github.io",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A personal website",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -13,6 +13,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "author": "Gloria Epstein",
   "dependencies": {
     "gatsby": "^2.24.47",
     "react": "^16.12.0",
@@ -23,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/gloriaep/gloriaep.github.io"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
